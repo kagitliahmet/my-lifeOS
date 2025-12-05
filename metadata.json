@@ -1,0 +1,5 @@
+{
+  "name": "My LifeOS",
+  "description": "A comprehensive personal management dashboard containing a Library, Movie Room, Advanced Study Timer, Archive, and Course Manager.",
+  "requestFramePermissions": []
+}
